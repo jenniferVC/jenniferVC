@@ -1,18 +1,16 @@
 <img align="right" width="400" height="400" src="https://th.bing.com/th/id/R.ed15f10a113f369191ed1024bee56c31?rik=tCFPrBY7k5PgcQ&riu=http%3a%2f%2fwww.piskelapp.com%2fstatic%2fresources%2fgithub_octocat.gif&ehk=zEqM%2bq3YtaoIHB6vXdmWZbTI%2ftrO4t1jiFrp%2fzQlUiI%3d&risl=&pid=ImgRaw&r=0">
 
-# Welcome!
+# Bem-vindo!
 
-## I'm Jennifer! Let me present a little about myself :D
+## Sou a Jennifer, Desenvolvedora de Software Júnior
 
-Junior Software Developer
-- Graduating in Systems Analysis and Development.
-- Knowledge of basic coding languages including
-  -  **Frontend** : HTML5, CSS3 and framework bootstrap, JavaScript and frameworks React JS e React Native.
+- Graduando-se em Análise e Desenvolvimento de Sistemas.
+- Experiência básica de programação, incluindo
+  -  **Frontend** : HTML5, CSS3 and framework bootstrap, JavaScript e frameworks React JS e React Native.
   -  **Backend** : Java and C#.
-- Basic programming experience.
-- Knowledge of databases and operating systems.
-- Ability to learn new software and technologies quickly.
-- Ability to follow instructions and work in a team environment.
+- Conhecimento de bancos de dados e sistemas operacionais.
+- Capacidade de aprender novos softwares e tecnologias rapidamente.
+- Capacidade de seguir instruções e trabalhar em ambiente de equipe.
 
 
 ## About me 
