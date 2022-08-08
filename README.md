@@ -6,7 +6,7 @@
 
 - Graduando-se em Análise e Desenvolvimento de Sistemas.
 - Experiência básica de programação, incluindo
-  -  **Frontend** : HTML5, CSS3 and framework bootstrap, JavaScript e frameworks React JS e React Native.
+  -  **Frontend** : HTML5, CSS3 and framework bootstrap, JavaScript e framework Angular JS.
   -  **Backend** : Java and C#.
 - Conhecimento de bancos de dados e sistemas operacionais.
 - Capacidade de aprender novos softwares e tecnologias rapidamente.
