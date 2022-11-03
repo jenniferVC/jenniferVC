@@ -10,7 +10,6 @@
   -  **Backend** : Java and C#.
 - Conhecimento de bancos de dados e sistemas operacionais.
 - Capacidade de aprender novos softwares e tecnologias rapidamente.
-- Capacidade de seguir instruções e trabalhar em ambiente de equipe.
 
 
 ## About me 
