@@ -2,7 +2,7 @@
 
 # Bem-vindo!
 
-## Sou a Jennifer, Desenvolvedora de Software Júnior
+## Sou a Jennifer, Desenvolvedora de Software Full Stack
 
 - Graduando-se em Análise e Desenvolvimento de Sistemas.
 - Experiência básica de programação, incluindo
