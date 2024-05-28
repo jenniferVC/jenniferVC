@@ -29,8 +29,7 @@
 &emsp;
 <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?&style=flat-square&logo=c-sharp&logoColor=white"></a>
 &emsp;
-<a href="#"><img alt="C" src="https://img.shields.io/
-badge/C-269347?&style=flat-square&logo=c&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/C-269347?&style=flat-square&logo=c&logoColor=white"></a>
 &emsp;
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"></a>
 &emsp;
